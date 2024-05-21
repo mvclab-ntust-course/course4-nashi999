@@ -42,8 +42,5 @@ after finishing our YOLOv8 training, we can see the result in ".\project-1\\runs
 
 ### Result
 
-![images]()
-![images]()
-![images]()
-![images]()
-![images]()
+![images](https://github.com/mvclab-ntust-course/course4-nashi999/blob/main/HW2/result/results.png)
+![images](https://github.com/mvclab-ntust-course/course4-nashi999/blob/main/HW2/result/train_batch0.jpg)
